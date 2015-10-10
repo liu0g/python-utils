@@ -1,4 +1,4 @@
-Character to Image
+# Character to Image
 ===============
 
 This tool will generate a large image or PDF file for each individual character in a string. 
